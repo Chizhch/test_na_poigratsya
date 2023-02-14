@@ -57,5 +57,6 @@ while True:
     print('\n')
     print(f'сумма счета: {shet}','\n')
 
+print('ура! я разобрался!')
 
 
